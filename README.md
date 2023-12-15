@@ -38,7 +38,7 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 ## Anexos
 
-[(https://aws.amazon.com/pt/s3/?nc=sn&loc=1), (https://aws.amazon.com/pt/health/case-studies/?nc=sn&loc=5&case-studies-health-cards.sort-by=item.additionalFields.sortDate&case-studies-health-cards.sort-order=desc&awsf.case-studies-filter-area=*all), (https://aws.amazon.com/pt/sagemaker/?nc2=h_ql_prod_ml_sm), (https://aws.amazon.com/pt/iot-core/?nc2=h_ql_prod_it_iotc), (https://aws.amazon.com/pt/greengrass/?nc2=h_ql_prod_it_gg)] 
+[AWS S3](https://aws.amazon.com/pt/s3/?nc=sn&loc=1), [Cases Industria](https://aws.amazon.com/pt/health/case-studies/?nc=sn&loc=5&case-studies-health-cards.sort-by=item.additionalFields.sortDate&case-studies-health-cards.sort-order=desc&awsf.case-studies-filter-area=*all), [AWS Sagemaker](https://aws.amazon.com/pt/sagemaker/?nc2=h_ql_prod_ml_sm), [AWS IoT Core](https://aws.amazon.com/pt/iot-core/?nc2=h_ql_prod_it_iotc), [AWS IoT Greengrass](https://aws.amazon.com/pt/greengrass/?nc2=h_ql_prod_it_gg) 
 
 **Assinatura do Responsável pelo Projeto:**  
 [Tatiane Ivanof]
